@@ -31,6 +31,6 @@ int main()
     string s1;
     string s2;
     cin>>s1>>s2;
-    cout << topdown(s1, s2, s1.length(), s2.length());
+    cout << topdown( s1, s2, s1.length(), s2.length());
     return 0;
 }
